@@ -220,8 +220,16 @@
 
 #### Name: [Prashant Bajaj](https://github.com/bajaj99prashant)
 - Bio: computer science student having aspiration in frontend web development.
--Programming Language: Javascript
+- Programming Language: Javascript
 
 #### Name: [Harrison Mitchell](https://github.com/harrison-mitchell)
 - Bio: Computer Science Undergraduate 
 - Programming Language: Python
+
+### Name: [Amber Cyr](https://github.com/SheW0lf)
+ - Bio: A scientist who moonlights as a web developer
+ - Programming Language: Javascript, Python, R
+
+
+
+
