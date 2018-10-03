@@ -222,4 +222,7 @@
 - Bio: computer science student having aspiration in frontend web development.
 -Programming Language: Javascript
 
+#### Name: [Rab Ross](https://github.com/rabross)
+- Bio: Senior Software Engineer - Android enthusiast
+- Programming Language: Java, Kotlin
 
