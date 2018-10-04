@@ -230,9 +230,10 @@
  - Bio: A scientist who moonlights as a web developer
  - Programming Language: Javascript, Python, R
 
-
-
 #### Name: [Rab Ross](https://github.com/rabross)
 - Bio: Senior Software Engineer - Android enthusiast
 - Programming Language: Java, Kotlin
 
+#### Name: [Mamad ali](https://github.com/mamadali)
+- Bio: Student Love Android, IOS
+- Programming Language: Java, c++
