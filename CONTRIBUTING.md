@@ -238,6 +238,10 @@
 - Bio: Senior Software Engineer - Android enthusiast
 - Programming Language: Java, Kotlin
 
+#### Name: [Mamad ali](https://github.com/mamadali)
+- Bio: Student Love Android, IOS
+- Programming Language: Java, c++
+
 ### Name [Stu Wares](https://github.com/StuWares)
 - Bio: Tech support by day, learning to code at night!
 - Programming Language: JavaScript, Python, Rust
