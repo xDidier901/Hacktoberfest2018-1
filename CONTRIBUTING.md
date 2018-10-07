@@ -234,9 +234,10 @@
  - Bio: A scientist who moonlights as a web developer
  - Programming Language: Javascript, Python, R
 
-
-
 #### Name: [Rab Ross](https://github.com/rabross)
 - Bio: Senior Software Engineer - Android enthusiast
 - Programming Language: Java, Kotlin
 
+### Name [Stu Wares](https://github.com/StuWares)
+- Bio: Tech support by day, learning to code at night!
+- Programming Language: JavaScript, Python, Rust
