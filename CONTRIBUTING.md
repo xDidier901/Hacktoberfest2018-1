@@ -22,6 +22,10 @@
 - Bio: Student trying to get more involvded with open source projects
 - Programming Language: Python, Java, HTML, CSS, Swift, C++
 
+#### Name: [Ganga S Nair](https://github.com/ganga1807)
+- Bio: Student who loves to code and solve puzzles
+- Programming Language: C++, Java, C, HTML
+
 #### Name: [Matthew Helmer](https://github.com/MatthewHelmer)
 - Bio: Computer Science student in Nova Scotia, Canada
 - Programming Languages: Python, C, Java
@@ -237,3 +241,7 @@
 #### Name: [Mamad ali](https://github.com/mamadali)
 - Bio: Student Love Android, IOS
 - Programming Language: Java, c++
+
+### Name [Stu Wares](https://github.com/StuWares)
+- Bio: Tech support by day, learning to code at night!
+- Programming Language: JavaScript, Python, Rust
