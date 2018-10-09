@@ -245,3 +245,7 @@
 ### Name [Stu Wares](https://github.com/StuWares)
 - Bio: Tech support by day, learning to code at night!
 - Programming Language: JavaScript, Python, Rust
+
+#### Name: [Didier Valdez](https://github.com/xdidier901)
+- Bio: Software Engineer -  Videogame lover!
+- Programming Language: Java, Kotlin, JavaScript, C#.
